@@ -1,6 +1,4 @@
-# COMP 590-80, Spring 2018 Source Code
+# COMP 590 Data Compression
+# Lossless Video Compression Project
 
-This code is a framework for developing programming assignments / projects for COMP 590 - Special Topics on Data Compression taught at UNC, Spring 2018.
-
-## Huffman
-Refer to [BUILD.md](Huffman/BUILD.md)
+Sidhant Uthra
